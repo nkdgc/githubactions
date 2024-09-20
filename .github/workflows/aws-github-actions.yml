@@ -4,7 +4,7 @@ name: AWS example workflow
 on:
   push
 env:
-  BUCKET_NAME : "githubactions-test"
+  BUCKET_NAME : "githubactions-test-20240920"
   AWS_REGION : "ap-northeast-1"
 # permission can be added at job level or workflow level
 permissions:
